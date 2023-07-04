@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="java_project_netbeans">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/java_project_netbeans.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
