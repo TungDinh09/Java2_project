@@ -378,35 +378,21 @@
                                     <DimensionLayout dim="0">
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Group type="102" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="lblAvatar" alignment="0" max="32767" attributes="0"/>
                                                   <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
                                                       <Group type="103" groupAlignment="0" attributes="0">
                                                           <Component id="btnChooseImages" alignment="0" min="-2" max="-2" attributes="0"/>
                                                           <Component id="btnCreate" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnFix" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnDeleteStudents" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnExportData" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
                                                       </Group>
-                                                      <EmptySpace min="0" pref="85" max="32767" attributes="0"/>
-                                                  </Group>
-                                                  <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
-                                                      <Group type="103" groupAlignment="0" attributes="0">
-                                                          <Component id="lblAvatar" alignment="0" max="32767" attributes="0"/>
-                                                          <Group type="102" attributes="0">
-                                                              <Group type="103" groupAlignment="0" attributes="0">
-                                                                  <Component id="btnFix" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                                  <Component id="btnDeleteStudents" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                              </Group>
-                                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                                                          </Group>
-                                                      </Group>
+                                                      <EmptySpace min="0" pref="138" max="32767" attributes="0"/>
                                                   </Group>
                                               </Group>
                                               <EmptySpace max="-2" attributes="0"/>
-                                          </Group>
-                                          <Group type="102" alignment="0" attributes="0">
-                                              <EmptySpace max="-2" attributes="0"/>
-                                              <Component id="btnExportData" min="-2" pref="107" max="-2" attributes="0"/>
-                                              <EmptySpace max="32767" attributes="0"/>
                                           </Group>
                                       </Group>
                                     </DimensionLayout>
@@ -704,35 +690,21 @@
                                     <DimensionLayout dim="0">
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Group type="102" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="lblAvatar6" max="32767" attributes="0"/>
                                                   <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
                                                       <Group type="103" groupAlignment="0" attributes="0">
                                                           <Component id="btnChooseImages6" alignment="0" min="-2" max="-2" attributes="0"/>
                                                           <Component id="btnCreate1" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnFix1" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnDeleteStudents6" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnExportData6" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
                                                       </Group>
-                                                      <EmptySpace min="0" pref="85" max="32767" attributes="0"/>
-                                                  </Group>
-                                                  <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
-                                                      <Group type="103" groupAlignment="0" attributes="0">
-                                                          <Component id="lblAvatar6" max="32767" attributes="0"/>
-                                                          <Group type="102" attributes="0">
-                                                              <Group type="103" groupAlignment="0" attributes="0">
-                                                                  <Component id="btnFix1" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                                  <Component id="btnDeleteStudents6" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                              </Group>
-                                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                                                          </Group>
-                                                      </Group>
+                                                      <EmptySpace min="0" pref="138" max="32767" attributes="0"/>
                                                   </Group>
                                               </Group>
                                               <EmptySpace max="-2" attributes="0"/>
-                                          </Group>
-                                          <Group type="102" alignment="0" attributes="0">
-                                              <EmptySpace max="-2" attributes="0"/>
-                                              <Component id="btnExportData6" min="-2" pref="107" max="-2" attributes="0"/>
-                                              <EmptySpace max="32767" attributes="0"/>
                                           </Group>
                                       </Group>
                                     </DimensionLayout>
@@ -1006,7 +978,7 @@
                                                           <Component id="jComboBox3" min="-2" pref="105" max="-2" attributes="0"/>
                                                       </Group>
                                                   </Group>
-                                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                                  <EmptySpace min="0" pref="27" max="32767" attributes="0"/>
                                               </Group>
                                           </Group>
                                           <EmptySpace max="-2" attributes="0"/>
@@ -1041,35 +1013,21 @@
                                     <DimensionLayout dim="0">
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Group type="102" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="lblAvatar1" max="32767" attributes="0"/>
                                                   <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
                                                       <Group type="103" groupAlignment="0" attributes="0">
                                                           <Component id="btnChooseImages1" alignment="0" min="-2" max="-2" attributes="0"/>
                                                           <Component id="btnCreate2" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnFix2" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnDeleteStudents1" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnExportData1" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
                                                       </Group>
-                                                      <EmptySpace min="0" pref="85" max="32767" attributes="0"/>
-                                                  </Group>
-                                                  <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
-                                                      <Group type="103" groupAlignment="0" attributes="0">
-                                                          <Component id="lblAvatar1" max="32767" attributes="0"/>
-                                                          <Group type="102" attributes="0">
-                                                              <Group type="103" groupAlignment="0" attributes="0">
-                                                                  <Component id="btnFix2" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                                  <Component id="btnDeleteStudents1" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                              </Group>
-                                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                                                          </Group>
-                                                      </Group>
+                                                      <EmptySpace min="0" pref="111" max="32767" attributes="0"/>
                                                   </Group>
                                               </Group>
                                               <EmptySpace max="-2" attributes="0"/>
-                                          </Group>
-                                          <Group type="102" alignment="0" attributes="0">
-                                              <EmptySpace max="-2" attributes="0"/>
-                                              <Component id="btnExportData1" min="-2" pref="107" max="-2" attributes="0"/>
-                                              <EmptySpace max="32767" attributes="0"/>
                                           </Group>
                                       </Group>
                                     </DimensionLayout>
@@ -1379,35 +1337,21 @@
                                     <DimensionLayout dim="0">
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Group type="102" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="lblAvatar2" max="32767" attributes="0"/>
                                                   <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
                                                       <Group type="103" groupAlignment="0" attributes="0">
                                                           <Component id="btnChooseImages2" alignment="0" min="-2" max="-2" attributes="0"/>
                                                           <Component id="btnCreate3" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnFix3" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnDeleteStudents2" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnExportData2" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
                                                       </Group>
-                                                      <EmptySpace min="0" pref="85" max="32767" attributes="0"/>
-                                                  </Group>
-                                                  <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
-                                                      <Group type="103" groupAlignment="0" attributes="0">
-                                                          <Component id="lblAvatar2" max="32767" attributes="0"/>
-                                                          <Group type="102" attributes="0">
-                                                              <Group type="103" groupAlignment="0" attributes="0">
-                                                                  <Component id="btnFix3" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                                  <Component id="btnDeleteStudents2" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                              </Group>
-                                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                                                          </Group>
-                                                      </Group>
+                                                      <EmptySpace min="0" pref="112" max="32767" attributes="0"/>
                                                   </Group>
                                               </Group>
                                               <EmptySpace max="-2" attributes="0"/>
-                                          </Group>
-                                          <Group type="102" alignment="0" attributes="0">
-                                              <EmptySpace max="-2" attributes="0"/>
-                                              <Component id="btnExportData2" min="-2" pref="107" max="-2" attributes="0"/>
-                                              <EmptySpace max="32767" attributes="0"/>
                                           </Group>
                                       </Group>
                                     </DimensionLayout>
@@ -1571,7 +1515,7 @@
                                               <Component id="jlbID4" min="-2" pref="44" max="-2" attributes="0"/>
                                               <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
                                               <Component id="txtID4" min="-2" pref="64" max="-2" attributes="0"/>
-                                              <EmptySpace max="32767" attributes="0"/>
+                                              <EmptySpace pref="376" max="32767" attributes="0"/>
                                               <Component id="jlbName4" min="-2" pref="65" max="-2" attributes="0"/>
                                               <EmptySpace max="-2" attributes="0"/>
                                               <Component id="txtName4" min="-2" pref="114" max="-2" attributes="0"/>
@@ -1704,35 +1648,21 @@
                                     <DimensionLayout dim="0">
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Group type="102" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="lblAvatar7" max="32767" attributes="0"/>
                                                   <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
                                                       <Group type="103" groupAlignment="0" attributes="0">
                                                           <Component id="btnChooseImages7" alignment="0" min="-2" max="-2" attributes="0"/>
                                                           <Component id="btnCreate4" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnFix4" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnDeleteStudents7" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnExportData7" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
                                                       </Group>
-                                                      <EmptySpace min="0" pref="85" max="32767" attributes="0"/>
-                                                  </Group>
-                                                  <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
-                                                      <Group type="103" groupAlignment="0" attributes="0">
-                                                          <Component id="lblAvatar7" max="32767" attributes="0"/>
-                                                          <Group type="102" attributes="0">
-                                                              <Group type="103" groupAlignment="0" attributes="0">
-                                                                  <Component id="btnFix4" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                                  <Component id="btnDeleteStudents7" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                              </Group>
-                                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                                                          </Group>
-                                                      </Group>
+                                                      <EmptySpace min="0" pref="112" max="32767" attributes="0"/>
                                                   </Group>
                                               </Group>
                                               <EmptySpace max="-2" attributes="0"/>
-                                          </Group>
-                                          <Group type="102" alignment="0" attributes="0">
-                                              <EmptySpace max="-2" attributes="0"/>
-                                              <Component id="btnExportData7" min="-2" pref="107" max="-2" attributes="0"/>
-                                              <EmptySpace max="32767" attributes="0"/>
                                           </Group>
                                       </Group>
                                     </DimensionLayout>
@@ -1914,7 +1844,7 @@
                                                   <Component id="jcbNumberoflessons3" alignment="0" max="32767" attributes="0"/>
                                                   <Component id="txtID3" alignment="0" max="32767" attributes="0"/>
                                               </Group>
-                                              <EmptySpace max="32767" attributes="0"/>
+                                              <EmptySpace pref="370" max="32767" attributes="0"/>
                                               <Group type="103" groupAlignment="0" max="-2" attributes="0">
                                                   <Component id="jlbName3" pref="65" max="32767" attributes="0"/>
                                                   <Component id="jlbKhoahoc" max="32767" attributes="0"/>
@@ -2087,35 +2017,21 @@
                                     <DimensionLayout dim="0">
                                       <Group type="103" groupAlignment="0" attributes="0">
                                           <Group type="102" attributes="0">
+                                              <EmptySpace max="-2" attributes="0"/>
                                               <Group type="103" groupAlignment="0" attributes="0">
+                                                  <Component id="lblAvatar8" max="32767" attributes="0"/>
                                                   <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
                                                       <Group type="103" groupAlignment="0" attributes="0">
                                                           <Component id="btnChooseImages8" alignment="0" min="-2" max="-2" attributes="0"/>
                                                           <Component id="btnCreate5" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnFix5" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnDeleteStudents8" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
+                                                          <Component id="btnExportData8" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
                                                       </Group>
-                                                      <EmptySpace min="0" pref="79" max="32767" attributes="0"/>
-                                                  </Group>
-                                                  <Group type="102" attributes="0">
-                                                      <EmptySpace max="-2" attributes="0"/>
-                                                      <Group type="103" groupAlignment="0" attributes="0">
-                                                          <Component id="lblAvatar8" max="32767" attributes="0"/>
-                                                          <Group type="102" attributes="0">
-                                                              <Group type="103" groupAlignment="0" attributes="0">
-                                                                  <Component id="btnFix5" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                                  <Component id="btnDeleteStudents8" alignment="0" min="-2" pref="107" max="-2" attributes="0"/>
-                                                              </Group>
-                                                              <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
-                                                          </Group>
-                                                      </Group>
+                                                      <EmptySpace min="0" pref="131" max="32767" attributes="0"/>
                                                   </Group>
                                               </Group>
                                               <EmptySpace max="-2" attributes="0"/>
-                                          </Group>
-                                          <Group type="102" alignment="0" attributes="0">
-                                              <EmptySpace max="-2" attributes="0"/>
-                                              <Component id="btnExportData8" min="-2" pref="107" max="-2" attributes="0"/>
-                                              <EmptySpace max="32767" attributes="0"/>
                                           </Group>
                                       </Group>
                                     </DimensionLayout>
