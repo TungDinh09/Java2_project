@@ -3,7 +3,6 @@ package java2_project;
 import View.HomePage;
 import View.Register;
 import View.Sign_in;
-import java.util.ResourceBundle;
 
 public class Main {
     public static void main(String[] args) {
@@ -16,6 +15,6 @@ public class Main {
         signIn.setVisible(true);
         signIn.setLocationRelativeTo(null);
         JDBCDriver jDBCDriver = new JDBCDriver();
-        ResourceBundle bunder = ResourceBundle.getBundle(""); 
+
     }
 }
