@@ -5,10 +5,119 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c25bdee6-e121-4f2f-a6d0-ee18d87dd566" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java2_project/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java2_project/Java2_project.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/built-jar.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/.netbeans_automatic_build" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Register$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Register$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Register$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Register$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Register$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Register$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$32.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$49.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$57.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$58.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$59.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$65.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$68.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$69.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$70.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$71.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$72.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$73.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$75.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$76.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$77.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$78.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$79.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$81.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$82.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$84.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$85.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/HomePage.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Register$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Register$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Register$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Register$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Register$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Register$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Register.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Register.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Sign_in$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Sign_in$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Sign_in$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Sign_in.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/View/Sign_in.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java2_project/Java2_project.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/java_project_netbeans.jar" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +139,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "241",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;241&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
